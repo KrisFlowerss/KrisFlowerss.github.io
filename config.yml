@@ -74,7 +74,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ARCHAI
+    title: 祝风
     subtitle: 
     imageUrl: "./images/head.gif"
     imageWidth: 150
@@ -105,7 +105,7 @@ params:
     - name: zhihu
       url: "https://www.zhihu.com/people/zi-fei-yu-an-zhi-wo-bu-zhi-yu"
     - name: bilibili
-      url: "https://space.bilibili.com/341626809"  
+      url: "https://space.bilibili.com/629474268?spm_id_from=333.1007.0.0"  
     - name: qq
       url: "https://gitee.com/fintinger/figure-bed/raw/master/img/202203061823492.jpg"
     - name: vx
