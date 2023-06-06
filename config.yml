@@ -1,5 +1,5 @@
 baseURL: "https://blog.archai.site/"
-title: Archai's home
+title: 橘子树谅 's Blog
 paginate: 6
 theme: PaperMod
 
@@ -30,7 +30,7 @@ permalinks:
 
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: "Archai's home"
+  title: "橘子树谅's Blog"
   description: ""
             
   keywords: [Blog, Portfolio, PaperMod]
@@ -60,13 +60,13 @@ params:
     disableHLJS: false # to disable highlight.js
     # disableFingerprinting: true
     favicon: "images/favicon.ico"
-    favicon16x16: "images/favicon.ico"
-    favicon32x32: "images/favicon.ico"
+    favicon16x16: "images/star.ico"
+    favicon32x32: "images/star.ico"
     # apple_touch_icon: "<link / abs url>"
     # safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "首页"
     # icon: https://gitee.com/fintinger/figure-bed/raw/master//images/20210530080206.ico
     # iconHeight: 0
 
@@ -74,9 +74,9 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: 祝风
+    title: 橘子树谅
     subtitle: 
-    imageUrl: "./images/head.gif"
+    imageUrl: "./images/tanzhilang.gif"
     imageWidth: 150
     imageHeight: 150
     imageTitle: my image
@@ -107,9 +107,9 @@ params:
     - name: bilibili
       url: "https://space.bilibili.com/629474268?spm_id_from=333.1007.0.0"  
     - name: qq
-      url: "https://gitee.com/fintinger/figure-bed/raw/master/img/202203061823492.jpg"
+      url: "https://gitee.com/krisfolowers/bolgmage/raw/master/IMG_1109.JPG"
     - name: vx
-      url: "https://gitee.com/fintinger/figure-bed/raw/master/img/202203061823489.jpg"
+      url: "https://gitee.com/krisfolowers/bolgmage/raw/master/wxid.JPG"
 
   # analytics:
   #   google:
@@ -167,23 +167,23 @@ params:
 menu:
   main:
     - identifier: Posts
-      name: Posts
+      name: 文章
       url: /posts/
       weight: 2
     - identifier: Categories
-      name: Categories
+      name: 目录
       url: /categories/
       weight: 10
     - identifier: Search
-      name: Search
+      name: 搜索
       url: /search/
       weight: 30
     - identifier: archives
-      name: Timeline
+      name: 时间轴
       url: /archives/
       weight: 40
     - identifier: About
-      name: About
+      name: 关于
       url: /about/
       weight: 50
     
