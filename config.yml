@@ -59,7 +59,7 @@ params:
   assets:
     disableHLJS: false # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "images/favicon.ico"
+    favicon: "images/star.ico"
     favicon16x16: "images/star.ico"
     favicon32x32: "images/star.ico"
     # apple_touch_icon: "<link / abs url>"
@@ -76,7 +76,7 @@ params:
     enabled: true # needs to be explicitly set
     title: 橘子树谅
     subtitle: 
-    imageUrl: "./images/love.gif"
+    imageUrl: "./images/head.gif"
     imageWidth: 150
     imageHeight: 150
     imageTitle: my image
