@@ -52,7 +52,7 @@ if (isMobile()) {
 } else {
     //Blog在非移动端显示背景视频
     getSetAllResource([
-        {url: 'https://jqf.oss-cn-beijing.aliyuncs.com/videos/7kgkoysahpw31.mp4', callBack: setBgvidCallBack},
+        {url: 'https://videobed.oss-cn-shenzhen.aliyuncs.com/videos/redlake.mp4', callBack: setBgvidCallBack},
     ])
     //social icons控制
     hideEl(socialIconsInMenu);
