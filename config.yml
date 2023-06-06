@@ -76,7 +76,7 @@ params:
     enabled: true # needs to be explicitly set
     title: 橘子树谅
     subtitle: 
-    imageUrl: "./images/tzlang.gif"
+    imageUrl: "./images/love.gif"
     imageWidth: 150
     imageHeight: 150
     imageTitle: my image
