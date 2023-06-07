@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://blog.archai.site/images/favicon.ico" width="128px" height="128px" alt="blog">
+<img src="https://www.xiaobaob.eu.org/images/star.ico" width="128px" height="128px" alt="blog">
 </p>
 
-<h1 align="center">Archai 's blog</h1>
+<h1 align="center">橘子树谅 's Blog</h1>
 
 <p align="center">
 <a href="https://github.com/gohugoio/hugo" target="_blank"><img src="https://img.shields.io/badge/hugo-v0.83.0-blueviolet?style=flat-square&logo=hugo" alt="hugo" /></a> 
