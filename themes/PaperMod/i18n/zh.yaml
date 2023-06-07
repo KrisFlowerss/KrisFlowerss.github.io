@@ -31,3 +31,15 @@
 
 - id: code_copied
   translation: "已复制！"
+
+- id: Categories
+  translation: "目录"
+
+- id: search
+  translation: "搜索"
+ 
+- id: Archive
+  translation: "时间轴"
+  
+- id: timeline
+  translation: "时间轴"

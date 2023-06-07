@@ -32,10 +32,7 @@ if (isMobile()) {
     })
     header.querySelector('.nav').appendChild(hideBtn)
     //让menu中的符号消失并且大写
-    menuList.forEach(el => {
-        let text = el.querySelector('span').innerText
-        el.querySelector('span').innerText = text.replace(/[^a-z|A-Z]+/, '').toUpperCase()
-    })
+   
 
     //social icons控制
     if (socialIconsInProfile && socialIconsInMenu) {

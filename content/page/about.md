@@ -1,6 +1,6 @@
 ---
 title: About
-date: '2019-02-28'
+date: '2023-06-07'
 showtoc: false
 ---
 
@@ -13,8 +13,8 @@ Hello 陌生人，欢迎访问 橘子树谅's blog
 
 <img src="https://picgo-jqf.oss-cn-beijing.aliyuncs.com/img/202204031903666.png" style="zoom:33%;width:auto;" />
 
-## 联系我
-- QQ :  <a href="https://wpa.qq.com/msgrd?v=3&uin=2592030861&site=qqq&menu=yes" target="_blank">2592030861</a>
+//## 联系我
+- QQ :  <a href="https://wpa.qq.com/msgrd?v=3&uin=2592030861&site=qqq&menu=yes" target="_blank">2592030861</a>//
 
 - GitHub : <a href="https://github.com/Fintinger" target="_blank">https://github.com/fintinger</a>
 

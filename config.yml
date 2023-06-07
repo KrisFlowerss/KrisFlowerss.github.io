@@ -55,6 +55,7 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
+  #VisitCount: true
 
   assets:
     disableHLJS: false # to disable highlight.js
@@ -167,23 +168,23 @@ params:
 menu:
   main:
     - identifier: Posts
-      name: Post
+      name: 文章
       url: /posts/
       weight: 2
     - identifier: Categories
-      name: Categories
+      name: 目录
       url: /categories/
       weight: 10
     - identifier: Search
-      name: Search
+      name: 搜索
       url: /search/
       weight: 30
     - identifier: archives
-      name: Timeline
+      name: 时间轴
       url: /archives/
       weight: 40
     - identifier: About
-      name: About
+      name: 关于
       url: /about/
       weight: 50
     
