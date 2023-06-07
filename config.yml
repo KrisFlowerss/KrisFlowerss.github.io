@@ -34,7 +34,7 @@ params:
   description: ""
             
   keywords: [Blog, Portfolio, PaperMod]
-  author: Archai
+  author: 橘子树谅
   # author: ["Me", "You"] # multiple authors
   images: 
   DateFormat: ":date_medium"
@@ -166,23 +166,23 @@ params:
   
 menu:
   main:
-    - identifier: Posts
+    - identifier: 文章
       name: 文章
       url: /posts/
       weight: 2
-    - identifier: Categories
+    - identifier: 目录
       name: 目录
       url: /categories/
       weight: 10
-    - identifier: Search
+    - identifier: 搜索
       name: 搜索
       url: /search/
       weight: 30
-    - identifier: archives
+    - identifier: 时间轴
       name: 时间轴
       url: /archives/
       weight: 40
-    - identifier: About
+    - identifier: 关于
       name: 关于
       url: /about/
       weight: 50
