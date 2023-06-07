@@ -1,6 +1,6 @@
 /**这里所有的js都会被最后执行，可以用于覆盖主题默认存在的一些JS设定
  * @author 祝风
- * @website https://blog.archai.site
+ * @website https://www.xiaobaob.eu.org/
  */
 {
     const aList = document.querySelectorAll('.header a')
