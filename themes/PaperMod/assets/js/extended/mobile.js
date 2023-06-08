@@ -34,7 +34,7 @@ if (isMobile()) {
     //让menu中的符号消失并且大写
    
     getSetAllResource([
-        {url: 'https://videobed.oss-cn-shenzhen.aliyuncs.com/videos/redlake.mp4', callBack: setBgvidCallBack},
+        {url: 'https://gitee.com/krisfolowers/bolgmage/raw/master/IMG_0020.JPG' ,callBack: setStaticImageCallBack},
     ])
 
     //social icons控制

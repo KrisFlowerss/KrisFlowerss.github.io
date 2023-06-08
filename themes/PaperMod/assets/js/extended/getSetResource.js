@@ -27,6 +27,14 @@ function getSetAllResource(resourceArr) {
     })
 }
 
+//处理静态图片的回调
+function setStaticImageCallBack(blobRes) {
+    let imgElement = document.getElementById("imageElement");
+    if (imgElement) {
+        imgElement.src = URL.createObjectURL(blobRes);
+    }
+}
+
 //处理背景视频的回调
 function setBgvidCallBack(blobRes) {
     let vid = document.getElementById("liveBgBox");
