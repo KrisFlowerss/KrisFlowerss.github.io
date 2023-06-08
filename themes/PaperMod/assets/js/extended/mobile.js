@@ -33,6 +33,9 @@ if (isMobile()) {
     header.querySelector('.nav').appendChild(hideBtn)
     //让menu中的符号消失并且大写
    
+    getSetAllResource([
+        {url: 'https://videobed.oss-cn-shenzhen.aliyuncs.com/videos/redlake.mp4', callBack: setBgvidCallBack},
+    ])
 
     //social icons控制
     if (socialIconsInProfile && socialIconsInMenu) {
