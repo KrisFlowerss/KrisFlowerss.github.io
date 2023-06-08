@@ -1,6 +1,6 @@
 ---
 title: 建站历程
-date: 2023.06.08
+date: 2023-06-08
 Categories:
 - 杂项
 Tags:
