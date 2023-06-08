@@ -355,6 +355,8 @@
     background: var(--tertiary);
 }
 
+
+  
 #pinToc:hover i {
     transform: rotateZ(45deg);
 
