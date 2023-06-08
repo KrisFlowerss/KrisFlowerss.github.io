@@ -17,7 +17,7 @@ Tags:
 
 ## 开始尝试
 
-&emsp;&emsp;于是我最后忍不了了，问了ChatGpt说：“哪个架构的个人博客比较适合小白？”他很肯定地给了我唯一的答案：Hugo的架构是最适合的。于是我开始找能够在Vercel部署的Hugo模版，有点比较难找，但还是给我找到了唯一一个[大佬配置好的](https://github.com/Fintinger/hugo-auto-deploy)能用的比较满意的。  非常推荐,还有[他自己的博客网站]([blog.archai.site/](https://blog.archai.site/))。我配置好的网站首页在页脚也标注了。非常感谢🙏。
+&emsp;&emsp;于是我最后忍不了了，问了ChatGpt说：“哪个架构的个人博客比较适合小白？”他很肯定地给了我唯一的答案：Hugo的架构是最适合的。于是我开始找能够在Vercel部署的Hugo模版，有点比较难找，但还是给我找到了唯一一个[大佬配置好的](https://github.com/Fintinger/hugo-auto-deploy)能用的比较满意的。  非常推荐,还有[他自己的博客网站](https://blog.archai.site/))。我配置好的网站首页在页脚也标注了。非常感谢🙏。
 
 &emsp;&emsp;刚开始直接fork完用vercel部署是没有用的，会显示错误，这是我遇到的**第一个问题**，具体错误详情我也不想找了，最后了解到需要在原文件根目录下创建一个vercel.json文件，详情如下：
 
