@@ -33,9 +33,7 @@ if (isMobile()) {
     header.querySelector('.nav').appendChild(hideBtn)
     //让menu中的符号消失并且大写
    
-    getSetAllResource([
-        {url: 'https://gitee.com/krisfolowers/bolgmage/raw/master/IMG_0020.JPG' ,callBack: setStaticImageCallBack},
-    ])
+  
 
     //social icons控制
     if (socialIconsInProfile && socialIconsInMenu) {
