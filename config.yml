@@ -126,29 +126,30 @@ params:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: true # hide on single page
+#################
+  # comments:
+  #       enabled: true
+  #       provider: waline
 
-#  comments:
-#        enabled: true
-#        provider: waline
-#
-#        waline:
-#            serverURL: https://waline-q3l7of5hj-fintinger.vercel.app/
-#            visitor: true
-#            avatar: robohash
-#            emoji:
-#                - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
-#                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili
-#                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq
-#                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba
-#                - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji
-#            requiredMeta:
-#                - name
-#                - email
-#                - url
-#            placeholder: 说点什么༼ つ ◕_◕ ༽つ
-#            locale:
-#                admin: Admin
-#            highlight: true
+  #       waline:
+  #           serverURL: https://waline-q3l7of5hj-fintinger.vercel.app/
+  #           visitor: true
+  #           avatar: robohash
+  #           emoji:
+            #     - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
+            #     - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili
+            #     - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq
+            #     - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba
+            #     - https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji
+            # requiredMeta:
+            #     - name
+            #     - email
+            #     - url
+            # placeholder: 说点什么༼ つ ◕_◕ ༽つ
+            # locale:
+            #     admin: Admin
+            # highlight: true
+##########
   
 #-------------------------------------------------------------
   # editPost:
