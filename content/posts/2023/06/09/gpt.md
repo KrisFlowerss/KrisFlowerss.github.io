@@ -1,5 +1,5 @@
 ---
-title：关于gpt的Vercel自配置网站
+title: 关于gpt的Vercel自配置网站
 date: 2023-06-12
 Categories:
 - gpt
