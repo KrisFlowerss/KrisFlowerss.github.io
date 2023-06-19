@@ -251,7 +251,7 @@ int divide(int a,int b)
 
 5.如下图所示，采用基于功能分解的集成方法分析模块图的集成测试会话，分别采用自顶向下、自底向上、三明治集成的方法。
 
-<img src="https://gitee.com/krisfolowers/bolgmage/raw/master/35081228444c636978235b1c58522198.png"  /> 
+<img src="https://imagebedss.oss-cn-shenzhen.aliyuncs.com/35081228444c636978235b1c58522198.png"  /> 
 
 答：
 
