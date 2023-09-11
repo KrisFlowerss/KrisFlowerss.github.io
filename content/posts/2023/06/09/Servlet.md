@@ -141,9 +141,9 @@ tags:
 
 > 进入tomcat安装目录bin下，双击startup.bat 启动程序，出现如下界面
 
-|   Tomcat启动控制台    |
-| :-------------------: |
-| ![](Pictures/005.png) |
+|                      Tomcat启动控制台                      |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/a3cfb386ebbf2fdd1d95c.png) |
 
 
 
