@@ -2571,9 +2571,9 @@ public class Servlet3 extends HttpServlet {
 
 > 过滤器（Filter）是处于客户端与服务器目标资源之间的一道过滤技术。
 
-|                      过滤器                      |
-| :----------------------------------------------: |
-| ![image-20200423124307700](Pictures\Filter0.png) |
+|                           过滤器                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/96adbeec0dff9f3e4a7bf.png) |
 
 
 
