@@ -46,9 +46,9 @@ tags:
 > - 缺点：图形显示效果不如C/S架构
 > - 需要通过HTTP协议访问
 
-|         B/S架构          |
-| :----------------------: |
-| ![B_S](Pictures\B_S.png) |
+|                          B/S架构                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/b0aaa6be5e15d8ba98ef1.png) |
 
 
 
@@ -153,9 +153,9 @@ tags:
 >
 > 如果出现以下界面证明Tomcat启动成功。
 
-|      Tomcat访问页面      |
-| :----------------------: |
-| ![](Pictures/tomcat.png) |
+|                       Tomcat访问页面                       |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/731c8939fb54d5f348352.png) |
 
 
 
@@ -202,17 +202,17 @@ tags:
 
 - [经验：URL主要有4部分组成：协议、主机、端口、资源路径]()
 
-|         URL组成          |
-| :----------------------: |
-| ![url](Pictures\url.png) |
+|                          URL组成                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/8b162f59639875e5f10c2.png) |
 
 
 
 ##### 2.6.3 Tomcat响应流程图
 
-|                  请求响应流程图                   |
-| :-----------------------------------------------: |
-| ![image-20200422205742782](Pictures\请求流程.png) |
+|                       请求响应流程图                       |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/d64dff327f69bad3c0a45.png) |
 
 
 
@@ -228,9 +228,9 @@ tags:
 
 > 访问资源不存在，出现404错误
 
-|         404错误          |
-| :----------------------: |
-| ![007](Pictures\007.png) |
+|                           404错误                            |
+| :----------------------------------------------------------: |
+| ![404](https://sp.zhuefy.link/file/36cfbccc87e6ad23780f2.png) |
 
 
 
@@ -346,9 +346,9 @@ public class MyServlet implements Servlet{
 
 > 服务端出现异常
 
-|        500错误        |
-| :-------------------: |
-| ![](Pictures\008.png) |
+|                          500错误                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/2a469f5554444c1e3f434.png) |
 
 
 
@@ -362,25 +362,25 @@ public class MyServlet implements Servlet{
 
 > 创建项目窗口,选择JavaEE7,并勾选Web Application
 
-|      创建Web项目      |
-| :-------------------: |
-| ![](Pictures\015.png) |
+|                        创建Web项目                         |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/1f1ea4b34c851215ecbe4.png) |
 
 
 
 > 输入项目名称和项目保存位置，点击Finish,完成项目创建
 
-|     项目目录设置      |
-| :-------------------: |
-| ![](Pictures\016.png) |
+|                        项目目录设置                         |
+| :---------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/97bf795bc54e9c04c8284.png)) |
 
 
 
 > Web项目目录介绍
 
-|                   目录结构                    |
-| :-------------------------------------------: |
-| ![image-20200512142217351](Pictures/0017.png) |
+|                          目录结构                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/3ce872200261465e37b00.png) |
 
 
 
@@ -438,41 +438,41 @@ public class MyServlet implements Servlet{
 
 > 点击File选项，选择Settings
 
-|                 Settings设置                 |
-| :------------------------------------------: |
-| ![image-20200415224650181](Pictures\018.png) |
+|                        Settings设置                        |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/5ba1b8740c48dce44fca0.png) |
 
 
 
 > 选择Build, Execution, Deployment下的Application Servers。
 
-|                  应用服务器                  |
-| :------------------------------------------: |
-| ![image-20200415224918038](Pictures\032.png) |
+|                         应用服务器                         |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/c1de79f55cb5082adf610.png) |
 
 
 
 > 点击＋号，选择Tomcat Server
 
-|               添加Tomcat服务器               |
-| :------------------------------------------: |
-| ![image-20200415225206629](Pictures\033.png) |
+|                      添加Tomcat服务器                      |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/c5fd84d8fc8958aecbbc8.png) |
 
 
 
 > 选择Tomcat安装目录，点击OK即可
 
-|                选择Tomcat目录                |
-| :------------------------------------------: |
-| ![image-20200415225302765](Pictures\034.png) |
+|                       选择Tomcat目录                       |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/0f455cd342fac4254440b.png) |
 
 
 
 > 最后，点击OK
 
-|                    点击OK                    |
-| :------------------------------------------: |
-| ![image-20200415225420316](Pictures\035.png) |
+|                           点击OK                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/3252851e4f36c2acd8b48.png) |
 
 
 
@@ -480,33 +480,33 @@ public class MyServlet implements Servlet{
 
 > 点击 Add Configuration 
 
-|                 添加项目配置                 |
-| :------------------------------------------: |
-| ![image-20200416110418929](Pictures\036.png) |
+|                        添加项目配置                        |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/2a2c4006f05afd92e23e8.png) |
 
 
 
 > 点击＋号，选择Tomcat Server，选择Local
 
-|               选择Tomcat服务器               |
-| :------------------------------------------: |
-| ![image-20200416110623115](Pictures\037.png) |
+|                      选择Tomcat服务器                      |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/4eca092de17adfa4bd6e1.png) |
 
 
 
 > 点击＋号 ，选择 Artifact，添加当前项目
 
-|                 添加当前项目                 |
-| :------------------------------------------: |
-| ![image-20200416111320798](Pictures\038.png) |
+|                        添加当前项目                        |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/6db14d0c30a8f4252a22b.png) |
 
 
 
 > 点击运行按钮，即可运行项目
 
-|                     运行                     |
-| :------------------------------------------: |
-| ![image-20200416111837116](Pictures\039.png) |
+|                             运行                             |
+| :----------------------------------------------------------: |
+| ![](https://i3.wp.com/telegra.ph/file/fd1d50796e99582b53e82.png) |
 
 
 
@@ -516,33 +516,33 @@ public class MyServlet implements Servlet{
 
 > 在[WEB-INF]()目录下新建lib目录
 
-| WEB-INF下新建lib目录  |
-| :-------------------: |
-| ![](Pictures\026.png) |
+|                    WEB-INF下新建lib目录                    |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/962fa4859b5a265a43eed.png) |
 
 
 
 > 输入lib目录
 
-|      文件夹名称       |
-| :-------------------: |
-| ![](Pictures\027.png) |
+|                         文件夹名称                         |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/46a30d155ce0f7c117f6c.png) |
 
 
 
 > 复制jar包到lib目录中
 
-|      复制Jar文件      |
-| :-------------------: |
-| ![](Pictures\028.png) |
+|                        复制Jar文件                         |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/c8ea19acf1085bc90eca4.png) |
 
 
 
 > 右击lib目录，选择Add as Library...
 
-|       项目集成        |
-| :-------------------: |
-| ![](Pictures\029.png) |
+|                          项目集成                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/228a85d1148f6715e60bc.png) |
 
 
 
@@ -552,9 +552,9 @@ public class MyServlet implements Servlet{
 > + Project Library 表示当前工程中所有模块都可以使用。
 > + Module Library  表示当前模块可以使用。
 
-|     关键项目环境      |
-| :-------------------: |
-| ![](Pictures\030.png) |
+|                        关键项目环境                        |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/bfb49814f5c38266fe361.png) |
 
 
 
@@ -568,41 +568,41 @@ public class MyServlet implements Servlet{
 
 > 点击项目结构
 
-|       项目结构配置        |
-| :-----------------------: |
-| ![](Pictures\022.png)**** |
+|                         项目结构配置                         |
+| :----------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/3940643af5669f4aca0d2.png)**** |
 
 
 
 > 选择Artifacts，点击+号
 
-|         添加          |
-| :-------------------: |
-| ![](Pictures\023.png) |
+|                            添加                            |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/7e0fee31c44bfd1bd2c26.png) |
 
 
 
 > 选择Archive--->For...
 
-|   选择项目对应格式    |
-| :-------------------: |
-| ![](Pictures\024.png) |
+|                      选择项目对应格式                      |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/06844826b2fd4c2c5de5d.png) |
 
 
 
 > 构建项目
 
-|                 构建项目                  |
-| :---------------------------------------: |
-| ![](Pictures\image-20200715152617781.png) |
+|                          构建项目                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/ff9aa793a54b75fc65d50.png) |
 
 
 
 > 在out\artifacts\目录中,查看生产的war包，把war放入Tomcat的webapps目录，启动Tomcat自动解压即可访问。
 
-|       War包目录       |
-| :-------------------: |
-| ![](Pictures\031.png) |
+|                         War包目录                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/0e72accf36f018cc6de07.png) |
 
 
 
@@ -644,9 +644,9 @@ public class MyServlet implements Servlet{
 > - 服务器接受请求，并根据请求返回相应的文件作为应答。
 > - 客户与服务器关闭连接（四次挥手）。
 
-|          HTTP原理          |
-| :------------------------: |
-| ![http](Pictures\http.png) |
+|                          HTTP原理                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/51155fef4c296f531b307.png) |
 
 
 
@@ -660,9 +660,9 @@ public class MyServlet implements Servlet{
 > 3、空行
 > 4、请求正文
 
-|              请求报文              |
-| :--------------------------------: |
-| ![请求报文](Pictures\请求报文.png) |
+|                          请求报文                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/8c7e93a89daeaa18aaa62.png) |
 
 
 
@@ -674,9 +674,9 @@ public class MyServlet implements Servlet{
 > 3、空行
 > 4、响应正文
 
-|              响应报文              |
-| :--------------------------------: |
-| ![响应报文](Pictures\响应报文.png) |
+|                          响应报文                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/937a298619bf008f5f830.png) |
 
 
 
@@ -905,9 +905,9 @@ public class HelloServlet extends HttpServlet {
 
 > 在Servlet中用来处理客户端请求需要用doGet或doPost方法的request对象
 
-|                       request                        |
-| :--------------------------------------------------: |
-| ![image-20200512135542823](Pictures/request对象.png) |
+|                          request                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/5a8aca4458f1141e56989.png) |
 
 
 
@@ -1070,9 +1070,9 @@ public class GetServlet extends HttpServlet {
 
 > response对象用于响应客户请求并向客户端输出信息。
 
-|                       response                        |
-| :---------------------------------------------------: |
-| ![image-20200512135658133](Pictures/response对象.png) |
+|                          response                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/c7870bdabaf8fc56f7823.png) |
 
 
 
@@ -1548,17 +1548,17 @@ public class ShowAllAdminServlet extends HttpServlet {
 >
 > 应该将调用业务逻辑的控制层和显示结果分离开
 
-|                  现阶段问题                  |
-| :------------------------------------------: |
-| ![image-20200421161151487](Pictures\040.png) |
+|                         现阶段问题                         |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/ca109e8bd3f00ed635edf.png) |
 
 
 
 ##### 8.1.1 业务、显示分离
 
-|                业务与显示分离                |
-| :------------------------------------------: |
-| ![image-20200421161738926](Pictures\041.png) |
+|                       业务与显示分离                       |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/4571f41a0e4ff06a1d5f3.png) |
 
 
 
@@ -1579,9 +1579,9 @@ public class ShowAllAdminServlet extends HttpServlet {
 >
 > - request.getRequestDispatcher("/目标URL-pattern").forward(request, response);
 
-|                     forward                      |
-| :----------------------------------------------: |
-| ![image-20200421161418126](Pictures\forward.png) |
+|                          forward                           |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/1691d9173c6204f9395d7.png) |
 
 - [使用forward跳转时，是在服务器内部跳转，地址栏不发生变化，属于同一次请求]()
 
@@ -1636,9 +1636,9 @@ public class ShowAllAdminServlet extends HttpServlet {
 
 
 
-|                     redirect                      |
-| :-----------------------------------------------: |
-| ![image-20200512151855703](Pictures/redirect.png) |
+|                          redirect                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/a7f1c29f23e9e7168dc59.png) |
 
 - [使用redirect跳转时，是在客户端跳转，地址栏发生变化，属于多次请求]()
 
@@ -1715,9 +1715,9 @@ public class ShowAllAdminServlet extends HttpServlet {
 
 ##### 9.1.5 Servlet执行流程
 
-|                 Servlet执行流程                  |
-| :----------------------------------------------: |
-| ![Servlet声明周期](Pictures\Servlet声明周期.png) |
+|                      Servlet执行流程                       |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/5d1bb18b009fd26e3d3fd.png) |
 
 
 
@@ -1864,9 +1864,9 @@ public class SafeServlet extends HttpServlet  implements SingleThreadModel {
 > - 一个Cookie主要由标识该信息的名称（name）和值（value）组成。
 >
 
-|                       Cookie原理                        |
-| :-----------------------------------------------------: |
-| ![image-20200420113202276](Pictures\cookie工作原理.png) |
+|                          Cookie原理                          |
+| :----------------------------------------------------------: |
+| ![20b1a0ce96e63c52a2946.png](https://sp.zhuefy.link/file/20b1a0ce96e63c52a2946.png) |
 
 
 
@@ -2165,9 +2165,9 @@ public class GetValueServlet extends HttpServlet {
 
 #### 13.5 Session实战权限验证
 
-|                  Session记录登录状态                  |
-| :---------------------------------------------------: |
-| ![image-20200422105652452](Pictures\记录登录状态.png) |
+|                    Session记录登录状态                     |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/b36aac62a86ca5c94aa2a.png) |
 
 
 
@@ -2690,9 +2690,9 @@ public class MyFilter1 implements Filter {
 >
 > 每个过滤器实现某个特定的功能，当第一个Filter的doFilter方法被调用时，Web服务器会创建一个代表Filter链的FilterChain对象传递给该方法。在doFilter方法中，开发人员如果调用了FilterChain对象的doFilter方法，则Web服务器会检查FilterChain对象中是否还有filter，如果有，则调用第2个filter，如果没有，则调用目标资源。
 
-|                    过滤器链                     |
-| :---------------------------------------------: |
-| ![image-20200422212814562](Pictures\Filter.png) |
+|                          过滤器链                          |
+| :--------------------------------------------------------: |
+| ![](https://sp.zhuefy.link/file/288eff5814cb414912f06.png) |
 
 
 
