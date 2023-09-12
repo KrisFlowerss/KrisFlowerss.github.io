@@ -1,3 +1,12 @@
+---
+title: Servlet详解（上）
+Date: 2023-09-12
+Categories:
+- Java
+tags:
+- Servlet
+---
+
 # Servlet详解
 
 ### 一、HTTP协议
