@@ -340,3 +340,23 @@ Servlet+JDBC+HTML
 参考登录案例，使用当前admin表，完成注册功能（dao层只需完成添加功能，无需判断用户名是否存在）
 ```
 
+#### 晨考
+
+```
+1. 访问Servlet路径:  http://localhost:8080/myweb/myservlet中,myweb是什么目录
+   myservlet是什么路径？
+   myweb：标识项目的上下文目录
+   servlet的真实映射路径
+2.tomcat的默认端口是什么    
+8080
+3.Servlet，GenericServlet，HttpServlet都是处理__动态web资源____的类；Servlet是__接口____,GenericServlet是__抽象类______,而HttpServlet是GenericServlet的___子类_______。
+4.下列哪一个XML标签表示某一个Servlet的类   D
+A.<servlet类>com.abciinc.OrderServlet.class</servlet class>
+B.<class>com.abcinc.OrderServlet</class>
+C.<servlet>com.abcinc.OrderServlet</servlet>
+D.<servlet-class>com.abcinc.OrderServlet</servlet-class>
+5.http的底层协议是什么?   
+TCP
+6.tomcat中的web.xml与项目中的web.xml的区别？tomcat是全局默认的访问路径的配置 项目是局部的访问路径
+```
+
