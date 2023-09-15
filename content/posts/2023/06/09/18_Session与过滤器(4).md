@@ -370,3 +370,13 @@ public class SafeFilter implements Filter {
    
 ```
 
+#### 晨考
+
+```
+1. HttpRequest,HttpSession,ServletContext 的作用域是什么
+2. Session与Cookie的区别
+3. session设置和获取属性的方法调用
+4. 设置和获取Cookie的方法调用
+```
+
+![](https://sp.zhuefy.link/file/ba4dfde0d8a9a948d3ed1.png)
