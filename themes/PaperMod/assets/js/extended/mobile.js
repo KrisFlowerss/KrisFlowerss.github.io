@@ -50,7 +50,7 @@ if (isMobile()) {
 } else {
     //Blog在非移动端显示背景视频
     getSetAllResource([
-        {url: 'https://videobed.oss-cn-shenzhen.aliyuncs.com/videos/redlake.mp4', callBack: setBgvidCallBack},
+        {url: 'https://zhuefy.link/redlake.mp4', callBack: setBgvidCallBack},
     ])
     //social icons控制
     hideEl(socialIconsInMenu);
