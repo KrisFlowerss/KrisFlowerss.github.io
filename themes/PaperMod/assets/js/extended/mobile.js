@@ -49,9 +49,10 @@ if (isMobile()) {
 
 } else {
     //Blog在非移动端显示背景视频
-    getSetAllResource([
-        {url: 'https://zhuefy.link/redlake.mp4', callBack: setBgvidCallBack},
-    ])
+    
+         'https://zhuefy.link/redlake.mp4',
+    
+
     //social icons控制
     hideEl(socialIconsInMenu);
 }
