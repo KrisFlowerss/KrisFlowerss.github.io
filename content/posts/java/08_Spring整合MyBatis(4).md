@@ -431,3 +431,13 @@ public class SpringJunit {//当前测试类也会被纳入工厂中，产生bean
 注意：使用spring的测试
 ```
 
+#### 晨考
+
+```
+1. @Service 和@Service("userService")
+2. @Service和@Component的区别
+3. 事务中增删改加入rollback-for="Exception"属性的作用
+4. 事务隔离级别中，脏读，不可重复读，虚读的区别
+```
+
+![截屏2023-10-11 09.03.22](https://091023.xyz/2023/10/11/090420.webp)
