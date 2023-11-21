@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.xiaobaob.eu.org/images/star.ico" width="128px" height="128px" alt="blog">
+<img src="https://xiaobao.de/images/star.ico" width="128px" height="128px" alt="blog">
 </p>
 
 <h1 align="center">橘子树谅 's Blog</h1>

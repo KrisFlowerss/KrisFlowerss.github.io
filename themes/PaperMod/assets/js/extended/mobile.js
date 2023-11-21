@@ -26,7 +26,7 @@ if (isMobile()) {
     //Menu中追加目录隐藏按钮
     let hideBtn = document.createElement('i')
     hideBtn.className = 'menu-bar btn-hidden fab fa-chevron-left'
-    hideBtn.addEventListener('click', (e) => {
+    hideBtn.addEventListener('click', (e) => {1
         hideHeader(header);
         e.stopPropagation()
     })
@@ -51,7 +51,7 @@ if (isMobile()) {
     //Blog在非移动端显示背景视频
     
     getSetAllResource([
-        {url: 'https://alist.091023.xyz/d/zhuefy/%E6%9D%A5%E8%87%AA%E5%88%86%E4%BA%AB/redlake.mp4', callBack: setBgvidCallBack},
+        {url: 'https://alist.091023.xyz/d/zhuefy/%E6%9D%82%E9%A1%B9/redlake.mp4', callBack: setBgvidCallBack},
     ])
     //social icons控制
     hideEl(socialIconsInMenu);
